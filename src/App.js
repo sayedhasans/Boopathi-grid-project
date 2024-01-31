@@ -4,9 +4,9 @@ import Under from "../src/Boopathi/Under";
 function App(){
   return(
     <div>
-      
-      <Grid/>
+    
       <NavBar/>
+      <Grid/>
       <Under/>
 
     </div>
