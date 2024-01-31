@@ -86,10 +86,10 @@ const Under =()=>{
                 <div></div>
                 <div className="flex justify-center items-center font-bold text-[13px] font-mono" >Jun 2021</div>
                 <div className="flex justify-center items-center font-bold text-[13px] font-mono" >JUl 2021</div>
-                <div className="flex justify-center items-center font-bold text-[13px] font-mono" >Agu 2021</div>
+                <div className="flex justify-center items-center font-bold text-[13px] font-mono" >Aug 2021</div>
                 <div className="flex justify-center items-center font-bold text-[13px] font-mono" >Sep 2021</div>
-                <div className="flex justify-center items-center font-bold text-[13px] font-mono" >Act 2021</div>
-                <div className="flex justify-center items-center font-bold text-[13px] font-mono" >Nav 2021</div>
+                <div className="flex justify-center items-center font-bold text-[13px] font-mono" >Oct 2021</div>
+                <div className="flex justify-center items-center font-bold text-[13px] font-mono" >Nov 2021</div>
                 <div className="flex justify-center items-center font-bold text-[13px] font-mono" >Dec 2021</div>
                 <div className="flex justify-center items-center font-bold text-[13px] font-mono" >Jan 2022</div>
                 <div className="flex justify-center items-center font-bold text-[13px] font-mono" >Feb 2022</div>
